@@ -30,6 +30,7 @@ contract Voting {
     }
 }
 
+![image](https://github.com/user-attachments/assets/6a484423-4399-4334-aefd-fcfcf6e6d185)
 
 pragma solidity ^0.8.0;
 
@@ -51,6 +52,8 @@ contract StudentRecords {
     }
 }
 
+![image](https://github.com/user-attachments/assets/1df47976-4840-4c43-ae16-9a78c33e55d6)
+
 ques 3)
 pragma solidity ^0.8.0;
 
@@ -71,6 +74,7 @@ contract OwnerOnly {
     }
 }
 
+![image](https://github.com/user-attachments/assets/431bf78d-26dc-4dd8-abe3-28c52c311637)
 
 ques 4)
 
@@ -106,6 +110,7 @@ contract TopDonors {
 }
 
 
+
 ques 5)
 
 
@@ -127,6 +132,7 @@ contract SimpleAuction {
         payable(highestBidder).transfer(highestBid);
     }
 }
+
 
 
 ques 6)
