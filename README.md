@@ -109,6 +109,7 @@ contract TopDonors {
     }
 }
 
+![Screenshot 2025-05-22 211147](https://github.com/user-attachments/assets/a2b81ed9-7a5c-4b02-b127-e1507c747786)
 
 
 ques 5)
@@ -133,6 +134,7 @@ contract SimpleAuction {
     }
 }
 
+![image](https://github.com/user-attachments/assets/a795a478-d2fe-47f0-a260-5a342bc21f69)
 
 
 ques 6)
@@ -157,3 +159,4 @@ contract EtherSplitter {
     }
 }
 
+![image](https://github.com/user-attachments/assets/f6e6ea1b-0bf2-4360-9aab-87ae104d7ae5)
